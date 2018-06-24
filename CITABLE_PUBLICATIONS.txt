@@ -1,0 +1,5 @@
+﻿[1]
+Classification, Collection, and Simulation of Folding Mechanisms
+Jascha Paris, Judith Merz, Henri Buffart, Susanne Hoffmann, Chantal Weigel, Mathias Hüsing, Martin Trautz and Burkhard Corves
+Proceedings of the 4th IEEE/IFToMM Int. Conf. on Reconfigurable Mechanisms and Robots (ReMAR 2018), Delft, 20-22 June 2018
+978-1-5386-6380-6/18/$31.00
